@@ -1,4 +1,6 @@
-This is a script that will generate a picture of a Player bedwars quickshop layout using the Hypixel API.
+This is a script that will generate a picture of a Player bedwars quickshop layout using the Hypixel API. \
+Output, this is for example gamerboy80 quick shop
+![gamerboy80](/output/gamerboy80.png)
 ## Install
 ```
 pip install -r requirements.txt
@@ -8,7 +10,7 @@ Create a .env file and paste your API key
 HYPIXEL_API_KEY=YourKeyHere
 ```
 ## Usage
-Simply call it and pass the usename.
+Simply call it and pass the usename, make sure to be in the same directory as the bedwarsshop.py file.
 ```
 python bedwarsshop.py username
 ```
