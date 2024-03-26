@@ -123,4 +123,5 @@ def create_image(player_data, player_name):
     draw.line((0, 3*320-c.LINE_WIDTH, 7*320, 3*320-c.LINE_WIDTH),
               fill=c.LINE_COLOR, width=c.LINE_WIDTH)
     image.save(f"output/{player_name}.png")
-    image.show()
+    if c.SHOW_IMAGE:
+        image.show()
