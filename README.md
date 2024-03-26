@@ -19,5 +19,5 @@ You can always run the help command
 ```
 python bedwarsshop.py --help
 ```
-I did this project a few years ago and though I would rewrite it with cleaner code and more conventional structure
-Use this scipt at your own risk
+I did this project a few years ago and though I would rewrite it with cleaner code and more conventional structure \
+Use this script at your own risk
