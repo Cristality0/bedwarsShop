@@ -2,4 +2,4 @@
 cache/*
 output/*
 !output/gamerboy80.png
-__pycache__/*
+__pycache__/
