@@ -3,6 +3,7 @@ This is a script that will generate a picture of a Player bedwars quickshop layo
 Output, this is for example gamerboy80 quick shop\
 ![gamerboy80](/output/gamerboy80.png)
 ## Install
+Clone this repository and install the necessary packages using
 ```
 pip install -r requirements.txt
 ```
