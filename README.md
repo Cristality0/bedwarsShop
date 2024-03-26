@@ -1,5 +1,6 @@
+## About
 This is a script that will generate a picture of a Player bedwars quickshop layout using the Hypixel API. \
-Output, this is for example gamerboy80 quick shop
+Output, this is for example gamerboy80 quick shop\
 ![gamerboy80](/output/gamerboy80.png)
 ## Install
 ```
