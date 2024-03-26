@@ -20,5 +20,6 @@ You can always run the help command
 ```
 python bedwarsshop.py --help
 ```
+For more customizations check out constants.py file. For adjusting colors, thicknesses or adding more icon support.
 I did this project a few years ago and though I would rewrite it with cleaner code and more conventional structure \
 Use this script at your own risk
