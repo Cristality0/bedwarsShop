@@ -1,7 +1,7 @@
 # Bedwars Shop Generator
 
-[![Tests](https://github.com/YOUR_USERNAME/bedwarsShop/actions/workflows/test.yml/badge.svg)](https://github.com/YOUR_USERNAME/bedwarsShop/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/YOUR_USERNAME/bedwarsShop/branch/main/graph/badge.svg)](https://codecov.io/gh/YOUR_USERNAME/bedwarsShop)
+[![Tests](https://github.com/cristality0/bedwarsShop/actions/workflows/test.yml/badge.svg)](https://github.com/cristality0/bedwarsShop/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/cristality0/bedwarsShop/branch/main/graph/badge.svg)](https://codecov.io/gh/cristality0/bedwarsShop)
 
 ## About
 
