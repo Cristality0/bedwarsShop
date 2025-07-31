@@ -80,7 +80,7 @@ def parse_player_data(player_data):
         return None
     try:
         player_data = player_data["player"]["stats"]["Bedwars"]["favourites_2"]
-    except TypeError:
+    except (TypeError, KeyError):
         logging.error("Failed to parse player data")
         return None
     # parse string data array
