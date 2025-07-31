@@ -3,3 +3,6 @@ cache/*
 output/*
 !output/gamerboy80.png
 __pycache__/
+
+.ruff_cache/
+.venv/
